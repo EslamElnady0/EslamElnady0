@@ -38,7 +38,7 @@ If you would like to get in touch, feel free to send me a message on LinkedIn . 
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=563D7C)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
