@@ -1,5 +1,5 @@
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
   Welcome to Eslam Elnady's profile!
@@ -25,7 +25,7 @@ In my free time, I enjoy working on personal coding projects, and improving my p
 
 I am a quick learner, team player and hard worker. I am always looking to expand my knowledge and experience in the field of computer science, and am excited to continue growing as a developer.
 
-If you would like to get in touch, feel free to send me a message on LinkedIn . I would love to connect and chat about all things tech! </h4>
+If you would like to get in touch, feel free to send me a message on LinkedIn. I would love to connect and chat about all tech things! </h4>
 
 <br/>
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
