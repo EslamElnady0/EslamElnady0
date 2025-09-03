@@ -15,14 +15,18 @@
 
 
 <h3>🚀 About Me</h3> 
+
 <h4>
 👋 Hi, I’m Eslam Elnady
 
-I’m an electrical engineering student at Zagazig University, specializing in Computer Engineering and Information Systems. Over the past few years, I’ve built a strong foundation in computer science, mathematics, and control systems, while also gaining hands-on experience with C, Java, and Dart/Flutter.
+I’m a Computer and Information Systems graduate from Zagazig University, with a solid foundation in computer science, mathematics, and control systems.
 
-💻 My main focus is on mobile app development with Flutter, where I enjoy creating responsive, scalable, and user-friendly applications. I’ve developed multiple apps—ranging from productivity tools to educational platforms—that reflect my passion for building real-world solutions.
 
-⚡ Outside of academics, I constantly work on personal coding projects to sharpen my skills and explore new technologies. I consider myself a quick learner, team player, and problem solver who is always eager to grow as a developer.
+💻 My main focus is on mobile app development with Flutter, where I create responsive, scalable, and user-friendly applications. I’ve developed multiple apps—ranging from productivity tools to educational platforms—that reflect my passion for building real-world solutions.
+
+
+⚡ Beyond academics, I’ve worked on personal and collaborative projects that strengthened my skills in Java, Dart, and Flutter. I’m a quick learner, team player, and problem solver who is always eager to grow as a developer.
+
  </h4>
 
 <br/>
